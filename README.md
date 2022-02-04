@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laila40
-- 👀 I’m interested in Data science, quantum computing, blockchain technology, and big data handling
-- 🌱 I’m currently learning data science and related mathematics
+- 👀 I’m interested in Data science, quantum computing, blockchain technology, technical writing and big data handling 
+- 🌱 I’m currently learning data science and related mathematics along with my writing work
 - 💞️ I’m looking to collaborate on my interests
 
 <!---
